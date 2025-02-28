@@ -1,0 +1,73 @@
+--remove 
+10
+
+--add
+00:13:02,000 --> 00:13:14,400
+So begins our journey
+into linked list.
+
+--add
+00:28:02,000 --> 00:29:13,500
+Linked lists are fun!
+
+--add
+00:05:00,000 --> 00:06:00,000
+Singly Linked Lists
+
+--add
+00:08:10,001 --> 00:08:30,020
+Insert -empty, front,
+middle and end
+
+--add 
+00:04:00,000 --> 00:06:30,000
+Fail 1 - Inserting when end time 
+> next start time
+
+--add
+00:04:00,000 --> 00:06:00,000
+Fail 2 - Insert when endtime
+= end time of current frame
+
+--add
+00:06:00,000 --> 00:07:00,000
+Fail 3 - Insert when start is 
+equal to end time
+
+--add 
+00:05:30,000 --> 00:06:30,000
+Fail 4 - Insert when start time 
+is in middle of frame
+
+--add
+00:05:00,000 --> 00:05:30,000
+Fail 5 - Insert with same start 
+time
+
+--add
+00:30:13,500 --> 00:30:30,000
+This is a fun test!
+
+--add
+00:30:30,000 --> 00:30:40,000
+Fail 6 - Insert end, start 
+time equals end time of previous 
+frame
+
+--print
+Z:\newSW1.srt
+
+--remove
+0
+
+--remove 
+5
+
+--remove
+11
+
+--remove
+ 50
+
+--print
+newSW1.srt

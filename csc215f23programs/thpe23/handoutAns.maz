@@ -1,0 +1,79 @@
+Maze 1:
+    Size: 11 x 11
+    Starting Coordinates: 5 5
+    Shortest Path: 5 steps
+    ***********
+    *    E    *
+    * LLL-LLL *
+    * LLL-LLL *
+    * LLL-LLL *
+    *   L-L   *
+    * LLL LLL *
+    * LLL LLL *
+    * LLL LLL *
+    *         *
+    ***********
+
+Maze 2:
+    Size: 11 x 11
+    Starting Coordinates: 5 5
+    Shortest Path: 13 steps
+    ***********
+    *    E    *
+    * LLL+LLL *
+    * LLL+LLL *
+    * LLL+LLL *
+    *   L+L   *
+    * LLL LLL *
+    * LLL LLL *
+    * LLL LLL *
+    *         *
+    ***********
+
+Maze 3:
+    Size: 11 x 11
+    Starting Coordinates: 5 5
+    Shortest Path: 9 steps
+    ***********
+    *    E    *
+    * LLL=LLL *
+    * LLL=LLL *
+    * LLL=LLL *
+    *   L=L   *
+    * LLL LLL *
+    * LLL LLL *
+    * LLL LLL *
+    *         *
+    ***********
+
+Maze 4:
+    Size: 11 x 11
+    Starting Coordinates: 6 5
+    Shortest Path: 35 steps
+    ***********
+    *SSSSE====*
+    *SLLLLLLL=*
+    *SLLLLLLL=*
+    *SLLLLLLL=*
+    *S**LLL**=*
+    *SLLL-LLL=*
+    *SLLL-LLL=*
+    *SLLL-LLL=*
+    *SSSS-====*
+    ***********
+
+Maze 5:
+    Size: 11 x 11
+    Starting Coordinates: 6 5
+    Shortest Path: 35 steps
+    ***********
+    *====ESSSS*
+    *=LLLLLLLS*
+    *=LLLLLLLS*
+    *=LLLLLLLS*
+    *=**LLL**S*
+    *=LLL-LLLS*
+    *=LLL-LLLS*
+    *=LLL-LLLS*
+    *====-SSSS*
+    ***********

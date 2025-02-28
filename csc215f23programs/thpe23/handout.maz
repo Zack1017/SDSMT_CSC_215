@@ -1,0 +1,65 @@
+11 11
+5 5
+***********
+*    E    *
+* LLL LLL *
+* LLL LLL *
+* LLL LLL *
+*   L L   *
+* LLL LLL *
+* LLL LLL *
+* LLL LLL *
+*         *
+***********
+11 11
+5 5
+***********
+*    E    *
+* LLLSLLL *
+* LLLSLLL *
+* LLLSLLL *
+*   LSL   *
+* LLL LLL *
+* LLL LLL *
+* LLL LLL *
+*         *
+***********
+11 11
+5 5
+***********
+*    E    *
+* LLLWLLL *
+* LLLWLLL *
+* LLLWLLL *
+*   LWL   *
+* LLL LLL *
+* LLL LLL *
+* LLL LLL *
+*         *
+***********
+11 11
+6 5
+***********
+*SSSSEWWWW*
+*SLLLLLLLW*
+*SLLLLLLLW*
+*SLLLLLLLW*
+*S**LLL**W*
+*SLLL LLLW*
+*SLLL LLLW*
+*SLLL LLLW*
+*SSSS WWWW*
+***********
+11 11
+6 5
+***********
+*WWWWESSSS*
+*WLLLLLLLS*
+*WLLLLLLLS*
+*WLLLLLLLS*
+*W**LLL**S*
+*WLLL LLLS*
+*WLLL LLLS*
+*WLLL LLLS*
+*WWWW SSSS*
+***********

@@ -1,0 +1,41 @@
+--add
+00:00:02,000 --> 00:00:03,400
+So begins our journey
+into linked list.
+
+--add
+00:00:03,500 --> 00:00:03,800
+Linked lists are fun!
+
+--add
+00:00:04,000 --> 00:00:04,500
+Singly Linked Lists
+
+--add
+00:00:05,001 --> 00:00:06,020
+Insert -empty, front,
+middle and end
+
+--add
+00:00:36,000 --> 00:00:39,000
+Fail 6 - Insert end, start 
+time equals end time of previous 
+frame
+
+--print
+Z:\newSW1.srt
+
+--remove
+0
+
+--remove 
+5
+
+--remove
+11
+
+--remove
+ 50
+
+--print
+newSW1.srt
